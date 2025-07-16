@@ -1,5 +1,7 @@
 # MCP Python SDK
 
+MATEO: To launch the MCP inspector, run: uv run mcp dev main.py
+
 <div align="center">
 
 <strong>Python implementation of the Model Context Protocol (MCP)</strong>
